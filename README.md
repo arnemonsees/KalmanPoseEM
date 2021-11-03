@@ -4,4 +4,4 @@ The code for the paper "Anatomically-based skeleton kinetics and pose estimation
 
 1. Main code to run pose reconstructions: https://github.com/bbo-lab/ACM
     
-2. Code for calibrating multi-camera setups: https://github.com/bbo-lab/calibcam
+2. Optional code for calibrating multi-camera setups: https://github.com/bbo-lab/calibcam
