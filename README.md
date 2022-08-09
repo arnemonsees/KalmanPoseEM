@@ -2,7 +2,7 @@
 
 The code used in the paper "Anatomically-based skeleton kinetics and pose estimation in freely-moving rodents" by Monsees et al. (link: https://www.biorxiv.org/content/10.1101/2021.11.03.466906v1) is now maintained by user 'bbo_lab'. The respective repositories are the follwing:
 
-1. Code for end-to-end generation of all figures and videos: https://github.com/bbo-lab/ACM-figures
+1. Code for generating all figures and videos end-to-end: https://github.com/bbo-lab/ACM-figures
 
 2. Code for performing pose estimation: https://github.com/bbo-lab/ACM
 
